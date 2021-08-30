@@ -1,0 +1,11 @@
+{
+  "description": "A programming language website",
+  "repo": "https://github.com/HACHILANG/Hachi", 
+  "owner": {
+    "username": "HACHILANG",
+    "email": "shlokmadhekar88@gmail.com"
+  },
+  "record": {
+    "CNAME": "PUT THE CNAME YOU COPIED FROM REPLIT HERE"
+  }
+}
